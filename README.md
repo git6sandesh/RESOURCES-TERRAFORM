@@ -1,0 +1,1 @@
+This is a short terraform script to get reproducible dev environment to use for any of your own projects.Modify the userdata to make it yours and create any environment you need.
